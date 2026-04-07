@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SummonHnry.unity
+    guid: c81f27a0b5b8fb7459414483c5eb1713
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: a62df2199893e7541a50c593e88bc8a3
+  - enabled: 1
+    path: Assets/Scenes/Platform.unity
+    guid: a417f2404f29fc9428269343208448fe
+  - enabled: 1
+    path: Assets/Scenes/Coding.unity
+    guid: abf917f96559251409b984492c87a642
+  - enabled: 1
+    path: Assets/Scenes/SpiderMan.unity
+    guid: b021d114df595d9479b34c15da5b1b2e
+  - enabled: 1
+    path: Assets/Scenes/TesterSceneAIE.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Ui_Menu.unity
+    guid: 97281391e2d48f142902c1c169d680cb
+  - enabled: 1
+    path: Assets/Scenes/StoryTelling/Maccas1.unity
+    guid: 344c0204dafaaf947821a5398881f985
+  - enabled: 1
+    path: Assets/Scenes/StoryTelling/Maccas2.unity
+    guid: 3c250e92b7183514b87bd17939d11a64
+  - enabled: 1
+    path: Assets/Scenes/StoryTelling/Maccas3.unity
+    guid: c931c2f3b2bc1cd4498115d67ec48a3a
+  - enabled: 1
+    path: Assets/Scenes/StoryTelling/Maccas4.unity
+    guid: ba8f7e9cc7e74ac45b13f4bafe5a92a1
+  - enabled: 1
+    path: Assets/Scenes/StoryTelling/Maccas5.unity
+    guid: 259ba35305a15ab4c9b320c46b160d2d
+  - enabled: 1
+    path: Assets/Scenes/StoryTelling/Maccas6.unity
+    guid: 20f348d23c7ca8f48a2952bdf7466f6b
+  m_configObjects: {}
